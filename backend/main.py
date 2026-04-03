@@ -117,6 +117,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://localhost:3001",
+        "https://hackathon-4-0-2.onrender.com/"
     ],
     allow_credentials=True,
     allow_methods=["*"],
