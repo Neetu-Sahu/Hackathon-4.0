@@ -1,0 +1,23 @@
+Project Name
+
+Bharat Policy Intelligence System (BPIS)
+
+Goal
+
+A decision-support system that helps government identify which districts should receive newly launched schemes first using data-driven prioritization.
+
+Core Features
+
+Your MVP will include:
+
+District development data integration
+
+Infrastructure gap detection
+
+Development priority scoring
+
+Scheme targeting engine
+
+Budget allocation simulation
+
+GIS map visualization
