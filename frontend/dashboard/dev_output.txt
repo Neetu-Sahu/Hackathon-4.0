@@ -1,0 +1,534 @@
+﻿
+> dashboard@0.1.0 start
+> react-scripts start
+
+Starting the development server...
+
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\scale-3d.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\scale-3d.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\send-horizontal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\send-horizontal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-question-mark.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-question-mark.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-x.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-x.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sliders-vertical.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sliders-vertical.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sparkles.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sparkles.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-activity.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-activity.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-left.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-left.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-right.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-right.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-left.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-left.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-left.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-left.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-right.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-right.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-left.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-left.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-right.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-right.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-right.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-right.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-left.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-left.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-right.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-right.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-asterisk.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-asterisk.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-bottom-dashed-scissors.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-bottom-dashed-scissors.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-horizontal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-horizontal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-vertical.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-vertical.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chart-gantt.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chart-gantt.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check-big.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check-big.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-down.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-down.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-left.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-left.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-right.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-right.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-up.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-up.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-code.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-code.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-kanban.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-kanban.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-mouse-pointer.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-mouse-pointer.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-divide.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-divide.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dot.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dot.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-equal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-equal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-function.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-function.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-kanban.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-kanban.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-library.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-library.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-m.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-m.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-menu.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-menu.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-minus.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-minus.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-mouse-pointer.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-mouse-pointer.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking-off.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking-off.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pen.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pen.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-percent.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-percent.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pi.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pi.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pilcrow.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pilcrow.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-play.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-play.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-plus.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-plus.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-power.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-power.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-scissors.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-scissors.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-sigma.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-sigma.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-slash.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-slash.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-horizontal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-horizontal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-vertical.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-vertical.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-terminal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-terminal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user-round.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user-round.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-x.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-x.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\test-tube-diagonal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\test-tube-diagonal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-center.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-center.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-end.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-end.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-justify.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-justify.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-start.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-start.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-initial.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-initial.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-select.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-select.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-wrap.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-wrap.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tram-front.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tram-front.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tree-palm.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tree-palm.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\triangle-alert.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\triangle-alert.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tv-minimal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tv-minimal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\university.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\university.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-check.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-check.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-cog.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-cog.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-minus.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-minus.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-plus.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-plus.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-x.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-x.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\users-round.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\users-round.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils-crossed.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils-crossed.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wallet-minimal.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wallet-minimal.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wand-sparkles.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wand-sparkles.js.map'
+
+Failed to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\lucide-react.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\lucide-react.js.map'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/scale-3d.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\scale-3d.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\scale-3d.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/send-horizontal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\send-horizontal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\send-horizontal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/shield-question-mark.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-question-mark.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-question-mark.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/shield-x.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-x.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\shield-x.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/sliders-vertical.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sliders-vertical.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sliders-vertical.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/sparkles.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sparkles.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\sparkles.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-activity.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-activity.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-activity.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-down-left.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-left.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-left.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-down-right.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-right.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down-right.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-down.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-down.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-left.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-left.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-left.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-out-down-left.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-left.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-left.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-out-down-right.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-right.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-down-right.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-out-up-left.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-left.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-left.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-out-up-right.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-right.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-out-up-right.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-right.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-right.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-right.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-up-left.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-left.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-left.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-up-right.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-right.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up-right.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-arrow-up.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-arrow-up.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-asterisk.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-asterisk.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-asterisk.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-bottom-dashed-scissors.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-bottom-dashed-scissors.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-bottom-dashed-scissors.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-centerline-dashed-horizontal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-horizontal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-horizontal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-centerline-dashed-vertical.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-vertical.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-centerline-dashed-vertical.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-chart-gantt.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chart-gantt.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chart-gantt.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-check-big.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check-big.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check-big.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-check.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-check.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-chevron-down.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-down.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-down.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-chevron-left.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-left.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-left.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-chevron-right.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-right.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-right.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-chevron-up.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-up.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-chevron-up.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-code.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-code.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-code.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-dashed-kanban.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-kanban.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-kanban.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-dashed-mouse-pointer.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-mouse-pointer.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed-mouse-pointer.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-dashed.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dashed.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-divide.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-divide.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-divide.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-dot.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dot.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-dot.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-equal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-equal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-equal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-function.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-function.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-function.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-kanban.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-kanban.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-kanban.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-library.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-library.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-library.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-m.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-m.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-m.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-menu.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-menu.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-menu.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-minus.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-minus.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-minus.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-mouse-pointer.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-mouse-pointer.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-mouse-pointer.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-parking-off.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking-off.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking-off.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-parking.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-parking.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-pen.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pen.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pen.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-percent.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-percent.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-percent.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-pi.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pi.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pi.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-pilcrow.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pilcrow.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-pilcrow.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-play.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-play.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-play.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-plus.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-plus.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-plus.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-power.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-power.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-power.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-scissors.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-scissors.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-scissors.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-sigma.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-sigma.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-sigma.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-slash.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-slash.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-slash.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-split-horizontal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-horizontal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-horizontal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-split-vertical.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-vertical.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-split-vertical.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-terminal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-terminal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-terminal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-user-round.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user-round.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user-round.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-user.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-user.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/square-x.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-x.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\square-x.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/test-tube-diagonal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\test-tube-diagonal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\test-tube-diagonal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/text-align-center.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-center.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-center.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/text-align-end.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-end.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-end.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/text-align-justify.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-justify.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-justify.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/text-align-start.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-start.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-align-start.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/text-initial.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-initial.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-initial.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/text-select.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-select.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-select.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/text-wrap.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-wrap.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\text-wrap.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/tram-front.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tram-front.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tram-front.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/tree-palm.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tree-palm.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tree-palm.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/triangle-alert.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\triangle-alert.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\triangle-alert.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/tv-minimal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tv-minimal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\tv-minimal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/university.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\university.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\university.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/user-round-check.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-check.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-check.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/user-round-cog.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-cog.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-cog.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/user-round-minus.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-minus.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-minus.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/user-round-plus.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-plus.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-plus.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/user-round-x.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-x.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round-x.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/user-round.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\user-round.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/users-round.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\users-round.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\users-round.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/utensils-crossed.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils-crossed.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils-crossed.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/utensils.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\utensils.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/wallet-minimal.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wallet-minimal.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wallet-minimal.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/icons/wand-sparkles.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wand-sparkles.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\icons\wand-sparkles.js.map'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/lucide-react/dist/esm/lucide-react.js[39m[22m
+[1mModule Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\lucide-react.js.map' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\NEETU SAHU\Documents\GitHub\BPIS_2026\frontend\dashboard\node_modules\lucide-react\dist\esm\lucide-react.js.map'[39m[22m
+
+webpack compiled with [1m[33m87 warnings[39m[22m

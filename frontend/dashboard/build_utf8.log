@@ -1,0 +1,60 @@
+﻿
+> dashboard@0.1.0 build
+> react-scripts build
+
+node.exe : (node:21828) 
+[DEP0176] 
+DeprecationWarning: 
+fs.F_OK is deprecated, 
+use fs.constants.F_OK 
+instead
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: ((  
+  node:21828) [D...ts.F   
+ _OK instead:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+(Use `node 
+--trace-deprecation ...` 
+to show where the warning 
+was created)
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  548.52 kB  build\static\js\main.11ab1d9e.js
+  46.35 kB   build\static\js\239.580ba47e.chunk.js
+  33.56 kB   build\static\js\732.738ebdbb.chunk.js
+  8.74 kB    build\static\js\977.f35e9f14.chunk.js
+  7.26 kB    build\static\css\main.cd898c0b.css
+  1.76 kB    build\static\js\453.1deffb67.chunk.js
+
+The bundle size is significantly larger than recommended.
+Consider reducing it with code splitting: https://goo.gl/9VhYWB
+You can also analyze the project dependencies: https://goo.gl/LeUzfb
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
