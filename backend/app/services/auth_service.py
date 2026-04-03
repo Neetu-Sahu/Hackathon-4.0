@@ -1,9 +1,9 @@
 from twilio.rest import Client
 import random
 
-account_sid = 'AC0bfbee1fb24dffdab9821573e229680c'
-auth_token = '35932435f1b63da6f2438e42ce887218'
-twilio_number = '+15672219767'
+account_sid = os.getenv("TWILIO_ACCOUNT_SID")
+auth_token = os.getenv("TWILIO_AUTH_TOKEN")
+twilio_number = os.getenv("TWILIO_PHONE_NUMBER")
 
 otp_store = {}
 users_db = []  # Persistent mock database for the session
